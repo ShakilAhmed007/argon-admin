@@ -112,16 +112,16 @@ hr
     height: 0;
 }
 
-ul 
+.navbar-inner ul 
 {
     list-style: none !important;
     padding: 0px !important;
 }
-ul li ul li
+.navbar-inner ul li ul li
 {
     margin-left: 15px !important;
 }
-li a:hover
+.navbar-inner li a:hover
 {
     background: #e6e9ec;
     
